@@ -1,8 +1,6 @@
 //Testing the logger.
 
 
-
-
 public class LoggerTester{
     public static void main(String[] args){
         //initializing the instances

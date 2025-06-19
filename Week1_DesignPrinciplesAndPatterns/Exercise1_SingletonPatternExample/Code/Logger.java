@@ -1,4 +1,3 @@
-
 public class Logger {
     
     // a private static variable to hold the single instance.
