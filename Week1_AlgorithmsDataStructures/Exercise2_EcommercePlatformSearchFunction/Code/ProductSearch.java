@@ -1,3 +1,4 @@
+package Week1_AlgorithmsDataStructures.Exercise2_EcommercePlatformSearchFunction.Code;
 
 
 import java.util.Arrays;

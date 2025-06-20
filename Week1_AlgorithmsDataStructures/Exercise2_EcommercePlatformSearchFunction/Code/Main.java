@@ -1,3 +1,4 @@
+package Week1_AlgorithmsDataStructures.Exercise2_EcommercePlatformSearchFunction.Code;
 
 public class Main {
     public static void main(String[] args){
