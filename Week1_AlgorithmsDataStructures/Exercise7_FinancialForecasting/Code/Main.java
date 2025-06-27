@@ -1,3 +1,4 @@
+package Week1_AlgorithmsDataStructures.Exercise7_FinancialForecasting.Code;
 
 
 public class Main {
